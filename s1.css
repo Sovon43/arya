@@ -1,0 +1,44 @@
+*{
+	padding:0px;
+	margin:0px;
+	
+}
+h1{
+	font-family:arial,sans-serif;
+	font-weight:400;
+	height:60px;
+	width:100%;
+	background:#16A5c7;
+	line-height:60px;
+	color:white;
+
+	
+}
+div{
+	width:250px;
+	height:666px;
+	background:#148DA9;
+}
+a:hover{
+	color:black;
+	text-decoration:underline;
+	font-size:20px;
+}
+#menu a{
+text-decoration:none;
+color:white;
+padding:20px;
+padding-right:100px;
+
+}
+#menu ul  li{
+	list-style:none;
+	display:block;
+	padding:15px;
+	border-bottom:1px solid #236D7F;
+}
+#menu ul li:hover{
+ background:white;
+ transition: linear all 0.40s;
+ margin-left:10px;
+}
